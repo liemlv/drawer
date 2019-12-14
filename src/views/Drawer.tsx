@@ -616,7 +616,6 @@ const styles = StyleSheet.create({
     maxWidth: '100%',
   },
   overlay: {
-//     ...StyleSheet.absoluteFillObject,
     backgroundColor: 'rgba(0, 0, 0, 0.5)',
   },
   content: {
